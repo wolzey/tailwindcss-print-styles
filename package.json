@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-print-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "conditionally apply styles for printing pages",
   "main": "index.js",
   "repository": {
