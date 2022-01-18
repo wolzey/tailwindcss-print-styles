@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-print-styles",
+  "version": "1.0.0",
+  "description": "conditionally apply styles for printing pages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wolzey/tailwindcss-print-styles.git"
+  },
+  "keywords": [
+    "plugin",
+    "tailwind",
+    "tailwind",
+    "css",
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "author": "Ethan Wolz <ethan@creadiv.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolzey/tailwindcss-print-styles/issues"
+  },
+  "homepage": "https://github.com/wolzey/tailwindcss-print-styles#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.15"
+  }
+}
